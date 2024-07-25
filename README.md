@@ -1,0 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=%D0%9A%D0%BE%D0%B4+%D0%A4%D0%B8%D1%80%D1%8B&letterSpacing=%D0%BD%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE&pause=1000&color=2581AA&center=%D0%9D%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%BE&vCenter=%D0%9D%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%BE&repeat=%D0%92%D0%B5%D1%80%D0%BD%D0%BE&random=%D0%9D%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%BE&width=435&lines=Hi!+I'm+Igor+Klevzhits!)](https://git.io/typing-svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=IgorKlevzhits)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IgorKlevzhits)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorKlevzhits&layout=compact)](https://github.com/IgorKlevzhits/github-readme-stats)
